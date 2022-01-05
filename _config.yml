@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammadsadegh Shamsabardeh"
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "California"
   employer         :
@@ -181,7 +181,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
