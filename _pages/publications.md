@@ -3,11 +3,9 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+You can also find my articles on [Google Schoalr](https://scholar.google.com/citations?user=rK6aw6MAAAAJ&hl=en)
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
