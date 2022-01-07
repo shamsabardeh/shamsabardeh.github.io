@@ -15,5 +15,3 @@ real-world challenges of telecommunication networks and epidemiology. His primar
 background is in the field of applied machine learning, data science, telecommunication networks, IoT, 
 and risk analysis. He cherishes inclusion, support, collaboration, and knowledge sharing as 
 the core values in a team. </div>
-
-Please check out my [Google Scholar](https://scholar.google.com/citations?user=rK6aw6MAAAAJ&hl=en)
