@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Paper Title Number 2"
 collection: publications
-<<<<<<< HEAD
-<<<<<<< HEAD
-permalink: /publication/deep-generative
-excerpt: 'This paper is about the hierarchical factorized deep generative model that approximates high dimensional data by a product between time-dependent weights and spatially dependent low
-dimensional factors to perform per farm time series prediction.'
-date: 2021
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 Abstract:
 We propose an epidemic analysis framework for the outbreak prediction in the livestock industry, focusing on the
@@ -19,28 +19,3 @@ dimensional factors to perform per farm time series prediction. The prediction r
 model in forecasting the virus spread progression with average error of NRMSE = 2.5%.
 
 [Download paper here](https://arxiv.org/pdf/2110.03147.pdf)
-=======
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-=======
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
->>>>>>> parent of a46fa49 (paper-deep gerative)
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
->>>>>>> parent of a46fa49 (paper-deep gerative)
