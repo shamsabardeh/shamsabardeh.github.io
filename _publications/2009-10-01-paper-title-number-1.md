@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "PRRS Outbreak Prediction via Deep Switching Auto-Regressive Factorization Modeling"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: ''
+date: 2021-10-01
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2110.03147.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Abstract:
+Abstract: 
 We propose an epidemic analysis framework for the outbreak prediction in the livestock industry, focusing on the
 study of the most costly and viral infectious disease in the swine industry – the PRRS virus. Using this framework, we
 can predict the PRRS outbreak in all farms of a swine production system by capturing the spatio-temporal dynamics of 
