@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-10-01
 venue: 'GeoVet Conference'
 paperurl: ''
-citation: 'M Shamsabardeh, Shabaz Rezaei, Jose Pablo Gomez, Beatriz Martínez-López, Xin Liu'
+citation: 'Shamsabardeh, M., et al. "A novel way to predict PRRS outbreaks in the swine industry using multiple spatio-temporal features and machine learning approaches." Frontiers in Veterinary Science 6 (2019).'
 ---
 Abstract: 
 The aim of this study was to examine different machine learning models and explore diverse features to more effectively predict and
