@@ -1,7 +1,7 @@
 ---
 title: "PRRS Outbreak Prediction via Deep Switching Auto-Regressive Factorization Modeling"
 collection: publications
-permalink: /publication/deep-genrative
+permalink: /publication/prrs-generative
 excerpt: ''
 date: 2021-10-01
 venue: 'arXiv'
