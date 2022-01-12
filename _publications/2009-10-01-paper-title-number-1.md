@@ -1,12 +1,12 @@
 ---
 title: "PRRS Outbreak Prediction via Deep Switching Auto-Regressive Factorization Modeling"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/deep-genrative
 excerpt: ''
 date: 2021-10-01
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2110.03147.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: ''
+citation: ''
 ---
 Abstract: 
 We propose an epidemic analysis framework for the outbreak prediction in the livestock industry, focusing on the
