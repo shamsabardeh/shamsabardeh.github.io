@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-10-01
 venue: 'arXiv'
 paperurl: ''
-citation: ''
+citation: 'Shamsabardeh, Mohammadsadegh, Bahar Azari, and Beatriz Martínez-López. "PRRS Outbreak Prediction via Deep Switching Auto-Regressive Factorization Modeling." arXiv preprint arXiv:2110.03147 (2021).'
 ---
 Abstract: 
 We propose an epidemic analysis framework for the outbreak prediction in the livestock industry, focusing on the
