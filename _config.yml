@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "fail, fail again, fail better"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal descriptionnnnn"
